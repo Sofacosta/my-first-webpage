@@ -1,18 +1,22 @@
 h1 {
-  color: blue;
+  color: red;
   text-align: center;
 }
 
 h2 {
   font-style: helvetica;
   text-align: center;
+  color: green;
 }
 
 p {
   font-family: sans-serif;
+  text-align: center;
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+  font-weight: bolder;
+  text-align: center;
 }
